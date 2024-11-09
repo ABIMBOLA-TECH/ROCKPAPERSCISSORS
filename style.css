@@ -15,7 +15,7 @@ body{
 .heading{
     text-align: left;
     /* padding-bottom: 2rem; */
-    font-size: 37px;
+    font-size: 32px;
     font-weight: bold;
     font-style: italic;
     text-decoration: underline;
@@ -43,8 +43,8 @@ body{
 }
 
 .btn{
-    /* width: 50px;
-    height: 50px; */
+    width: 80px;
+    height: 80px;
     margin-right: 0.7rem;
     border-radius: 200px;
     border: none;
@@ -53,8 +53,8 @@ body{
 }
 
 .para{
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
     margin-right: 10px;
     border-radius: 200px;
     border: none;
